@@ -1,3 +1,0 @@
-- 👋 Hey, welcome to my profile!
-- I’m interested in Game Development, Digital Art, Music, Coding.
-- I’m currently learning Computer Science, Coding, Game Dev.
